@@ -1,7 +1,6 @@
 # fitella-figma
 prototipo de provador virtual
 
-feito pra facilitar a vida de quem compra roupas pela internet
 você coloca suas informações (altura e medidas) e de acordo com as especificações da roupa escolhida no site
 e o fittela calcula e compara qual seria o melhor tamanho pra você.
 
